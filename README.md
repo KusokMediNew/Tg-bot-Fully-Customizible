@@ -45,9 +45,13 @@ My Telegram Note Bot — это удобный бот для личного хр
 
 ## Установка и использование
 
-1. **Клонируйте репозиторий**  
+1. **Клонируйте репозиторий**
    ```bash
    git clone https://github.com/KusokMediNew/telegram-note-bot.git
+   ```
+    **Работает только с Git:**
+   ```bash
+   https://git-scm.com/downloads
    ```
 2. **Установите зависимости**  
    ```bash
