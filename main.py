@@ -6,11 +6,7 @@ from telebot.apihelper import ApiTelegramException
 # Configurations
 DEBUG = True
 ADMIN_IDS = [7563861429]
-
-# with open(r'c:\\Users\\Matvejs Upesleja\\Desktop\\bottoken1.txt', 'r') as f:
-    # TOKEN = f.read().strip()
-
-TOKEN = input("Isert token: ")
+TOKEN = "TOKEN"
 
 print("\nBot Started...\n")
 
